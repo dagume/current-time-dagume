@@ -12,7 +12,15 @@
   "author": "@dagume",
   "license": "MIT",
   "bin": {
-    "current-time-dagume": "./bin/global.js"
+    "current-time-dagume": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagume/current-time-dagume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dagume/current-time-dagume/issues"
+  },
+  "homepage": "https://github.com/dagume/current-time-dagume#readme"
 }

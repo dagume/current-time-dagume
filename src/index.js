@@ -44,4 +44,5 @@ const currentTime = () => {
 			return console.log(`Hora actual: ${letrasHoras[horas]} de la Madrugada`)
 	}  
 };
+
 module.exports = { currentTime };
